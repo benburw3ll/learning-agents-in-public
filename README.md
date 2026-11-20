@@ -15,7 +15,7 @@ Started: November 2026.
 
 ## The curriculum
 
-Twelve weeks in four tracks. Each week links to its brief. Status: ⬜ not started · 🟨 in progress · ✅ done
+Twelve weeks in four tracks, plus bonus weeks for topics that came up along the way. Each week links to its brief. Status: ⬜ not started · 🟨 in progress · ✅ done
 
 | Wk | Track | Topic | Deliverable | Status |
 |---:|-------|-------|-------------|:------:|
@@ -31,6 +31,7 @@ Twelve weeks in four tracks. Each week links to its brief. Status: ⬜ not start
 | 10 | GitHub deep end | [Jujutsu, stacked PRs, open source](weeks/10-jujutsu-stacked-prs-open-source/README.md) | Two weeks on jj, a landed 3-PR stack, one upstream PR merged | ⬜ |
 | 11 | Build | [Build your own X](weeks/11-build-your-own-x/README.md) | An emulator, a Redis clone, or a CodeCrafters track, driven with agents | ⬜ |
 | 12 | Build | [Capstone: a personal assistant on the Agent SDK](weeks/12-capstone-personal-assistant/README.md) | One always-on bot using my own MCP servers, driven from my phone | ⬜ |
+| 13 | Bonus | [Agent swarms](weeks/13-agent-swarms/README.md) | Practice swarms on a repo with planted bugs, one real swarm landed as one PR, and my swarm kit published | ⬜ |
 
 ## How it's organized
 
