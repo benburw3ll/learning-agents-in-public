@@ -35,6 +35,7 @@ Twelve weeks in four tracks. Each week links to its brief. Status: ⬜ not start
 ## How it's organized
 
 - `weeks/NN-topic/README.md` is the brief: goal, why it matters, deliverable, done-when checklist, stretch goals, resources.
+- `weeks/NN-topic/stories/` holds the guided stories for that week, in order. A Claude Code session in this repo tutors each one; the rules are in `CLAUDE.md`.
 - `weeks/NN-topic/LOG.md` is the write-up, filled in as the week happens.
 - Bigger builds get their own repository and are linked from the week that produced them.
 
