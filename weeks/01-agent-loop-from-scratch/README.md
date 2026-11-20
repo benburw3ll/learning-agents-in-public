@@ -14,6 +14,10 @@ Every feature in Claude Code and Codex is a hook on one step of this loop. Once 
 
 A separate repository with two implementations and a README comparing them, linked from this week's log.
 
+## Stories
+
+Guided, in order, in [stories/](stories/README.md). Say "run story 1.1" to a Claude Code session in this repo to start.
+
 ## Done when
 
 - [ ] The raw-API agent can read, edit, and run tests in a real repo of mine
