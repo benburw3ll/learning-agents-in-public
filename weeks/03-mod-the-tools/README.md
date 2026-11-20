@@ -14,6 +14,10 @@ Plugins are how expertise gets shared. If my setup only lives in my home directo
 
 Two installable plugins from marketplaces I own, plus an eval suite that proves at least one skill triggers correctly.
 
+## Guided issues
+
+Filed as milestone [Outcome: Mod the tools](https://github.com/benburw3ll/learning-agents-in-public/milestone/1), one guided issue per story. Point a Claude Code session in this repo at an issue and it tutors you through it.
+
 ## Done when
 
 - [ ] A Claude Code plugin installs from my own marketplace

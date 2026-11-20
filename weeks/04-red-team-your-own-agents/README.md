@@ -14,6 +14,10 @@ Prompt injection is what separates people who run agents on real systems from pe
 
 A documented set of injection attempts with what each tool did, and a sandboxed configuration I trust enough to run unattended.
 
+## Guided issues
+
+Filed as milestone [Outcome: Attack your own agents](https://github.com/benburw3ll/learning-agents-in-public/milestone/2), one guided issue per story. Everything happens in an isolated range with fake secrets and a canary you control.
+
 ## Done when
 
 - [ ] Five injection attempts documented, with the outcome in each tool
