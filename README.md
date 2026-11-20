@@ -1,4 +1,4 @@
-# Tokens Well Spent
+# Learning Agents in Public
 
 A public, week-by-week log of getting seriously good at agentic coding: Claude Code, Codex, MCP, and the GitHub machinery around them.
 
