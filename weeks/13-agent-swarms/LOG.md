@@ -16,5 +16,3 @@ Time:
 Tokens or dollars:
 
 ## Links
-
-- [swarm-kit](https://github.com/benburw3ll/swarm-kit): the swarm skill, the three member roles, the lane scripts and the practice repo, installable with `node install.mjs`

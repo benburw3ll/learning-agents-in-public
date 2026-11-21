@@ -9,7 +9,7 @@ In the labs you are the lead: you write the roster, the split and the briefs, an
 - The practice repo ("the dojo"): `~/swarm-dojo`, a tiny bill-splitting CLI called potluck with ten planted bugs and eight tests that pass anyway. `seed-dojo.mjs` builds it and rebuilds it with `--reset`. Its `origin` is a bare repo in a local folder, so "pushing" never leaves the machine.
 - Lab members run on Sonnet. The builder role's default (Opus at extra-high effort) is for real work; overriding the model to fit the job is part of the lesson.
 - No more than four members in any lab.
-- The kit: install it from [swarm-kit](https://github.com/benburw3ll/swarm-kit). Run `git clone https://github.com/benburw3ll/swarm-kit.git`, then `node install.mjs` inside the clone. That puts the swarm skill in `~/.claude/skills/swarm/`, the member roles in `~/.claude/agents/` (`swarm-scout.md`, `swarm-builder.md`, `swarm-reviewer.md`) and the course with its lab scripts in `~/.claude/skills/swarm-school/` (the scripts in `labs/`). It won't overwrite files that are already there unless you pass `--force`. Start a new session afterwards so the roles load.
+- Paths: the swarm skill is `~/.claude/skills/swarm/`, the member roles are `~/.claude/agents/swarm-scout.md`, `swarm-builder.md` and `swarm-reviewer.md`, and the lab scripts are in `~/.claude/skills/swarm-school/labs/`. That is my own setup; to follow along, build your own from story 13.2's role table and 13.6's description of the lane scripts.
 
 ## Prerequisites
 

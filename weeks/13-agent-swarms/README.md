@@ -14,7 +14,6 @@ Understand agent swarms well enough to plan one on paper, run it to a single PR,
 
 - Stories 13.1 to 13.7 done, with labs run on a practice repo that has ten planted bugs and a test suite that passes anyway.
 - One real swarm on one of my own repos, planned on paper first, landed as one PR, and debriefed in LOG.md.
-- My swarm kit (the skill, the three member roles, the lane scripts and the practice repo) published as its own repository and linked from LOG.md.
 
 ## Stories
 
@@ -27,7 +26,6 @@ In [`stories/`](stories/README.md), in order. In a Claude Code session in this r
 - [ ] The dojo build swarm (13.6) gathered into one branch without a conflict, and the full test suite passed once after gathering
 - [ ] A gather conflict resolved on purpose, with gather finishing cleanly afterwards
 - [ ] A real swarm on one of my repos landed as one PR (13.8)
-- [ ] The swarm kit is public in its own repository and installs on a fresh machine
 - [ ] LOG.md says what the real swarm cost and whether doing it inline would have been cheaper
 
 ## Stretch
